@@ -1,5 +1,7 @@
 # Character-Level Language Modeling with Neural Networks
 
+![Sentence Generation](sentence_generation.png)
+
 This repository contains three Jupyter Notebooks demonstrating different approaches to character-level language modeling using neural networks.  Each notebook explores a distinct method, ranging from simple bigram models to more complex Multilayer Perceptrons (MLPs).
 
 ## Project Structure
